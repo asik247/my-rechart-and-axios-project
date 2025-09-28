@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "planName": "Basic",
+    "price": "$10/month",
+    "features": [
+      "5 Users",
+      "50GB Storage",
+      "Priority Email Support"
+    ],
+    "buttonText": "Get Started"
+  },
+  {
+    "id": 2,
+    "planName": "Standard",
+    "price": "$20/month",
+    "features": [
+      "5 Users",
+      "50GB Storage",
+      "Priority Email Support"
+    ],
+    "buttonText": "Choose Plan"
+  },
+  {
+    "id": 3,
+    "planName": "Premium",
+    "price": "$40/month",
+    "features": [
+      "10 Users",
+      "100GB Storage",
+      "Phone & Email Support"
+    ],
+    "buttonText": "Subscribe Now"
+  },
+  {
+    "id": 4,
+    "planName": "Business",
+    "price": "$80/month",
+    "features": [
+      "25 Users",
+      "500GB Storage",
+      "24/7 Support"
+    ],
+    "buttonText": "Sign Up"
+  },
+  {
+    "id": 5,
+    "planName": "Enterprise",
+    "price": "$150/month",
+    "features": [
+      "Unlimited Users",
+      "2TB Storage",
+      "Dedicated Account Manager"
+    ],
+    "buttonText": "Contact Sales"
+  },
+  {
+    "id": 6,
+    "planName": "Ultimate",
+    "price": "$300/month",
+    "features": [
+      "Unlimited Users",
+      "5TB Storage",
+      "Priority 24/7 Support"
+     
+    ],
+    "buttonText": "Get Started"
+  }
+]
