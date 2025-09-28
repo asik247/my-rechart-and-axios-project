@@ -1,0 +1,14 @@
+[
+  { "month": "Jan", "sales": 400, "profit": 240, "expenses": 160 },
+  { "month": "Feb", "sales": 300, "profit": 140, "expenses": 160 },
+  { "month": "Mar", "sales": 500, "profit": 300, "expenses": 200 },
+  { "month": "Apr", "sales": 200, "profit": 100, "expenses": 100 },
+  { "month": "May", "sales": 700, "profit": 500, "expenses": 200 },
+  { "month": "Jun", "sales": 600, "profit": 400, "expenses": 200 },
+  { "month": "Jul", "sales": 800, "profit": 600, "expenses": 200 },
+  { "month": "Aug", "sales": 750, "profit": 500, "expenses": 250 },
+  { "month": "Sep", "sales": 650, "profit": 400, "expenses": 250 },
+  { "month": "Oct", "sales": 700, "profit": 450, "expenses": 250 },
+  { "month": "Nov", "sales": 800, "profit": 600, "expenses": 200 },
+  { "month": "Dec", "sales": 900, "profit": 700, "expenses": 200 }
+]

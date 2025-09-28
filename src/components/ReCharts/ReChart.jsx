@@ -12,7 +12,10 @@ const data = [
 
 const ReChart = () => {
   return (
-    <div className="flex justify-center">
+
+    <div >
+      <h1 className='text-center my-4'>Not Daynamic load systerm.</h1>
+      <div className="flex justify-center">
       <LineChart width={500} height={300} data={data}>
         <CartesianGrid strokeDasharray="10 10" />
         <XAxis dataKey="name" />
@@ -22,6 +25,7 @@ const ReChart = () => {
         <Line type="monotone" dataKey="uv" stroke="red" />
         <Line type="monotone" dataKey="pv" stroke="#82ca9d" />
       </LineChart>
+    </div>
     </div>
   );
 };
